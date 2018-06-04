@@ -24,6 +24,3 @@ def percentile_k_features(dataframe, k=20):
 
     return top_k_predictors
 
-
-
-
