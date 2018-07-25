@@ -16,3 +16,4 @@ def plot_corr(data, size=11):
     yticks(range(len(corr.columns)), corr.columns)
     return ax
 
+
